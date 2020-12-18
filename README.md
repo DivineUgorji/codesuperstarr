@@ -45,7 +45,8 @@ clean and maintanable code is like chocolate flavored ice cream...sweet to work 
 
 ## 📫 How to reach me
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [LinkedIn](www.linkedin.com/in/divine-ugorji
+).
 
 <!-- Icons -->
 
@@ -59,7 +60,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ## Summary of my GutHub activities
 
-[![Divine's github stats](https://github-readme-stats.vercel.app/api?username=codesuperstarr)](https://github.com/codesuperstarr/github-readme-stats)
+[![Divine's github stats](https://github-readme-stats.vercel.app/api?username=codesuperstarr&theme=radical_icons=true)](https://github.com/codesuperstarr/github-readme-stats)
 
 
 <!--
