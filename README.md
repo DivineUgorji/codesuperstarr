@@ -1,7 +1,4 @@
-## Hi there 👋 I'm Divine Ugorji x-special/nautilus-clipboard
-copy
-file:///home/divine/Downloads/Hi.gif
-
+## Hi there 👋 I'm Divine Ugorji
 
 
 I am a software engineer based in Nigeria.
@@ -23,15 +20,18 @@ Andrroid Apss
 ## ✍️ Blogging and Writing
 I write and blog regularly on Hashnode
 
-- 📫 How to reach me:
+
+## ⚡ Fun fact: 
+clean and maintanable code is like chocolate flavored ice cream...sweet to work with
+
+## 💬 Ask me about
+- Software Development
+- Android App Development
+- Software Quality Assurance
+- Community Development
+
+## 📫 How to reach me:
 We can connect on Twitter
-
-⚡ Fun fact: clean and maintanable code is like chocolate flavored ice cream...sweet to work with
-
-- 💬 Ask me about
-Tech stacks listed below
-
--
 
 <!--
 **codesuperstarr/codesuperstarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
