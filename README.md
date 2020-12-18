@@ -36,8 +36,9 @@ clean and maintanable code is like chocolate flavored ice cream...sweet to work 
 ## 📫 How to reach me:
 We can connect on Twitter
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/OS-Linux-https://simpleicons.org/icons/linux.svg;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <!--
 **codesuperstarr/codesuperstarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
