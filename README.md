@@ -20,7 +20,7 @@ I take my craft seriously but just having fun.
 - 🔭 I’m currently working on ...
 Andrroid Apss
 
-- ✍️ ## Blogging and Writing
+## ✍️ Blogging and Writing
 I write and blog regularly on Hashnode
 
 - 📫 How to reach me:
