@@ -60,7 +60,7 @@ You can find me on [![Twitter][1.2]][1], or on [LinkedIn](www.linkedin.com/in/di
 
 ## Summary of my GutHub activities
 
-[![Divine's github stats](https://github-readme-stats.vercel.app/api?username=codesuperstarr&theme=radical_icons=true)](https://github.com/codesuperstarr/github-readme-stats)
+![Divine's github stats](https://github-readme-stats.vercel.app/api?username=codesuperstarr&show_icons=true&theme=radical)
 
 
 <!--
