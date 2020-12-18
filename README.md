@@ -3,7 +3,7 @@
 
 I am a software engineer based in Nigeria.
 
-Passionate abot the intricacies of mobile apps.
+The intricacies of mobile apps tickle my mind.
 
 Curiosity about tech and passion about problem solving is what got me into code, 
 being able to come up with creative solutions is what makes me stay.
@@ -47,7 +47,7 @@ clean and maintanable code is like chocolate flavored ice cream...sweet to work 
 
 ## 📫 How to reach me
 
-You can find me on [![Twitter][1.2]][1], or on [LinkedIn](www.linkedin.com/in/divine-ugorji).
+You can find me on [![Twitter][1.2]][1], or on [LinkedIn](https://www.linkedin.com/in/divine-ugorji/).
 
 <!-- Icons -->
 
