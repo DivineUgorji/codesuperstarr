@@ -1,25 +1,27 @@
-## Hi there 👋 I'm Divine Ugorji
+## Hi there 👋 I'm Divine Ugorji.
 
 
 I am a software engineer based in Nigeria.
 
+Passionate abot the intricacies of mobile apps.
+
 Curiosity about tech and passion about problem solving is what got me into code, 
 being able to come up with creative solutions is what makes me stay.
 
-I enjoy learning as much as I enjoy teaching, I think both are equally fulfilling activities to me, 
+I enjoy learning as much as I enjoy sharing the knowledge, I think both are equally fulfilling activities to me, 
 and when I look for a job, continuous learning is a priority.
 
 I spend most of my days coding and contributing to discussions in tech communitites, 
-if I am not doing that, I am out reading history, psychology books and meeting friends and family.
+and when I'm not doing that, I'd be out reading history, psychology books and meeting friends and family.
 
-I take my craft seriously but just having fun.
+I take my craft seriously but merely having fun.
 
 ## 🌱 I’m currently learning
-- Andrroid App development
+- Android App development
 - Data Structures and Algorithms
 
 ## ✍️ Blogging and Writing
-I write and blog regularly on Hashnode
+I write and blog regularly on [Hashnode](https://hashnode.com/@codeSuperStarr)
 
 
 ## 🔧Tools and Technologies
@@ -45,8 +47,7 @@ clean and maintanable code is like chocolate flavored ice cream...sweet to work 
 
 ## 📫 How to reach me
 
-You can find me on [![Twitter][1.2]][1], or on [LinkedIn](www.linkedin.com/in/divine-ugorji
-).
+You can find me on [![Twitter][1.2]][1], or on [LinkedIn](www.linkedin.com/in/divine-ugorji).
 
 <!-- Icons -->
 
@@ -61,6 +62,7 @@ You can find me on [![Twitter][1.2]][1], or on [LinkedIn](www.linkedin.com/in/di
 ## Summary of my GutHub activities
 
 ![Divine's github stats](https://github-readme-stats.vercel.app/api?username=codesuperstarr&show_icons=true&theme=radical)
+
 
 
 <!--
