@@ -57,6 +57,9 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [1]: https://twitter.com/codeSuperstarr
 [2]: https://www.linkedin.com/in/divine-ugorji
 
+## Summary of my GutHub activities
+
+[![Divine's github stats](https://github-readme-stats.vercel.app/api?username=codesuperstarr)](https://github.com/codesuperstarr/github-readme-stats)
 
 
 <!--
