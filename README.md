@@ -3,12 +3,12 @@
 
 I am a software engineer based in Nigeria.
 
-The intricacies of mobile apps tickle my mind.
+The intricacies of mobile apps tickles my mind.
 
 Curiosity about tech and passion about problem solving is what got me into code, 
 being able to come up with creative solutions is what makes me stay.
 
-I enjoy learning as much as I enjoy sharing the knowledge, I think both are equally fulfilling activities to me, 
+I enjoy learning as much as sharing the knowledge, I think both are equally fulfilling activities to me, 
 and when I look for a job, continuous learning is a priority.
 
 I spend most of my days coding and contributing to discussions in tech communitites, 
