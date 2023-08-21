@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divine Ugorji 👨‍💻</h1>
 <h3 align="center">FrontEnd Engineer || Digital Craftsman</h3>
 
-<p>
-  
-I am passionate about front-end engineering. I thrive on turning creative visions into intuitive digital experiences and I'm often immersed in learning, crafting, and building solutions. 
-
-
-👷‍♂️As a Front-End engineer, I’m passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
-
-
-🎓 I love giving back to the community by sharing my knowledge and insights through tech blogs, speaking at local meet-ups, or engaging in open-source contributions. I'm dedicated to both my personal growth and helping others in their coding quests.
-
-Let's connect, to discuss your projects, collaborate and make the digital world a more engaging and user-friendly!</p>
-
-## ✍️ Blogging and Writing
-I write and blog regularly on [Hashnode](https://hashnode.com/@codeSuperStarr)
-
 
 ## 🔧Tools and Technologies
 
@@ -29,6 +14,19 @@ I write and blog regularly on [Hashnode](https://hashnode.com/@codeSuperStarr)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
+<p>
+I am passionate about front-end engineering. I thrive on turning creative visions into intuitive digital experiences and I'm often immersed in learning, crafting, and building solutions. 
+
+
+👷‍♂️As a Front-End engineer, I’m passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
+
+
+🎓 I love giving back to the community by sharing my knowledge and insights through tech blogs, speaking at local meet-ups, or engaging in open-source contributions. I'm dedicated to both my personal growth and helping others in their coding quests.
+
+Let's connect, to discuss your projects, collaborate and make the digital world a more engaging and user-friendly!</p>
+
+
+
 ## ⚡ Fun fact: 
 clean and maintainable code is like chocolate-flavored ice cream...sweet to work with
 
@@ -36,13 +34,5 @@ clean and maintainable code is like chocolate-flavored ice cream...sweet to work
 ## 📫 How to reach me
 
 - <h3 align="left"> 📫 You can connect with me on:</h3>
-- Twitter:  [Twitter]((https://twitter.com/Divine__Ugorji))
+- Twitter:  [Twitter][((https://twitter.com/Divine__Ugorji)])
 - Gmail: **divinepower275@gmail.com**
-
-You can find me on [![Twitter][1.2]][1], or on [LinkedIn](https://www.linkedin.com/in/divine-ugorji/).
-
-
-
-## Summary of my GutHub activities
-
-![Divine's github stats](https://github-readme-stats.vercel.app/api?username=codesuperstarr&show_icons=true&theme=radical)
