@@ -2,18 +2,6 @@
 <h3 align="center">FrontEnd Engineer || Digital Craftsman</h3>
 
 
-## 🔧Tools and Technologies
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/SVN-Git-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Tool-GoogleAnalytics-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Tool-jSon-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-
 <p>
 I am passionate about front-end engineering. I thrive on turning creative visions into intuitive digital experiences. I'm often immersed in learning, crafting, and building solutions. 
 
@@ -26,13 +14,23 @@ I am passionate about front-end engineering. I thrive on turning creative vision
 Let's connect, to discuss your projects, collaborate and make the digital world a more engaging and user-friendly!</p>
 
 
+## 📫 How to reach me
+
+- <h3 align="left"> You can connect with me on:</h3>
+- Twitter: [@Divine__Ugorji](https://www.twitter.com/Divine__Ugorji)
+- Gmail: **divineugorji37@gmail.com**
+
 
 ## ⚡ Fun fact: 
 clean and maintainable code is like chocolate-flavored ice cream...sweet to work with
 
+## 🔧Tools and Technologies
 
-## 📫 How to reach me
-
-- <h3 align="left"> You can connect with me on:</h3>
-- Twitter - [@Divine__Ugorji](https://www.twitter.com/Divine__Ugorji)
-- Gmail: **divineugorji37@gmail.com**
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/SVN-Git-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Tool-GoogleAnalytics-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Tool-jSon-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
