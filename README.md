@@ -15,7 +15,7 @@
 
 
 <p>
-I am passionate about front-end engineering. I thrive on turning creative visions into intuitive digital experiences and I'm often immersed in learning, crafting, and building solutions. 
+I am passionate about front-end engineering. I thrive on turning creative visions into intuitive digital experiences. I'm often immersed in learning, crafting, and building solutions. 
 
 
 👷‍♂️As a Front-End engineer, I’m passionate about building interactive, stunning, and seamless user experiences on the web, blending creativity with technical expertise to create the perfect balance between aesthetics and functionality.
@@ -33,6 +33,6 @@ clean and maintainable code is like chocolate-flavored ice cream...sweet to work
 
 ## 📫 How to reach me
 
-- <h3 align="left"> 📫 You can connect with me on:</h3>
-- Twitter:  [Twitter][((https://twitter.com/Divine__Ugorji)])
-- Gmail: **divinepower275@gmail.com**
+- <h3 align="left"> You can connect with me on:</h3>
+- Twitter - [@Divine__Ugorji](https://www.twitter.com/Divine__Ugorji)
+- Gmail: **divineugorji37@gmail.com**
